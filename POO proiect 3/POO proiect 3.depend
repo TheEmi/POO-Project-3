@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1620840538 source:c:\users\joe\documents\c++\poo proiect 3\main.cpp
+	<iostream>
+	<Locuinta.h>
+	<Casa.h>
+	<Apartament.h>
+	<Gestiune.h>
+
+1620841461 source:c:\users\joe\documents\c++\poo proiect 3\src\apartament.cpp
+	"Apartament.h"
+
+1620841451 c:\users\joe\documents\c++\poo proiect 3\include\apartament.h
+	<Locuinta.h>
+
+1620841367 c:\users\joe\documents\c++\poo proiect 3\include\locuinta.h
+	<string>
+	<iostream>
+
+1620841628 source:c:\users\joe\documents\c++\poo proiect 3\src\casa.cpp
+	"Casa.h"
+
+1620841628 c:\users\joe\documents\c++\poo proiect 3\include\casa.h
+	<Locuinta.h>
+
+1620841367 source:c:\users\joe\documents\c++\poo proiect 3\src\locuinta.cpp
+	"Locuinta.h"
+
+1620842066 c:\users\joe\documents\c++\poo proiect 3\include\gestiune.h
+	<set>
+	<iostream>
+	<Locuinta.h>
+	<Casa.h>
+	<Apartament.h>
+	<exception>
+
+1620735944 source:c:\users\joe\documents\c++\poo proiect 3\src\gestiune.cpp
+	"Gestiune.h"
+
